@@ -1,0 +1,67 @@
+
+.ph4t{
+	position: absolute;
+	width: 480px;
+	height: 138px;
+	font-family: Roboto;
+	font-style: normal;
+	font-weight: normal;
+	font-size: 14px;
+	line-height: 16px;
+	color: #AAAAAA;
+}
+.imgs{
+	border-radius: 60%;
+	width: 200px;
+}
+.ph3t{
+	width: 496px;
+	height: 26px;
+	font-family: Roboto;
+	font-style: normal;
+	font-weight: bold;
+	font-size: 22px;
+	line-height: 26px;
+	color: #000000;
+}
+ul :nth-child(even){
+	color: blue;
+}
+ul :nth-last-child(1){
+	color:red;
+}
+ul :nth-child(3n+1){
+	margin-top: 5px;
+}
+.div1{
+	width: 235px;
+	display:inline-block;
+	height: 210px;
+	background: #FFFFFF;
+	border: 4px solid #B8FF43;
+	box-sizing: border-box;
+	box-shadow: 0px 4px 4px rgba(0, 0, 0, 0.25);
+}
+.div2{
+	width: 227px;
+	display:inline-block;
+	margin-bottom: 90px;
+	height: 120px;
+	background: #FFFFFF;
+	border: 4px solid #FF0000;
+	box-sizing: border-box;
+	box-shadow: 0px 4px 4px rgba(0, 0, 0, 0.25);
+}
+.div3{
+	width: 185px;
+	margin-bottom: 45px;
+	display:inline-block;
+	height: 165px;
+	background: #FFFFFF;
+	border: 4px solid #0000FF;
+	box-sizing: border-box;
+	box-shadow: 0px 4px 4px rgba(0, 0, 0, 0.25);
+}
+.MainDiv{
+	margin-top: 150px;
+}
